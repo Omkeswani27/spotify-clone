@@ -1,6 +1,6 @@
 # 🎵 Spotify Clone  
 
-A front-end web application that replicates the core functionalities of Spotify. Built with React and Spotify API, this project offers a sleek and dynamic music streaming experience, complete with search, playlists, and real-time playback features.  
+A front-end web application that replicates the core functionalities of Spotify.This project offers a sleek and dynamic music streaming experience,playlists, and real-time playback features.  
 
 ## 📚 Table of Contents  
 
